@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="studybuddy-banner.png" alt="StudyBuddy AI Banner" width="100%">
+</p>
+
 # StudyBuddy AI
 
 ## Intelligent Learning Companion
