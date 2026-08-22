@@ -14,7 +14,7 @@ Instead of simply reading notes, learners can generate structured study material
 
 ## Live Demo
 
-[View StudyBuddy AI](YOUR-LIVE-DEMO-LINK)
+[Live Demo](https://ayesha-zayb.github.io/StudyBuddy-AI/)
 
 ---
 
